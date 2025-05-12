@@ -9,7 +9,7 @@ redirect_from:
 
 **Hey there, Welcome!**
 
-I am Graduate Research Associate at [Language Technologie Institute(https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) advised by [Dr. Bhiksha Raj](https://cmu-mlsp.github.io/team/bhiksha_raj).
+I am Graduate Research Associate at [Language Technologie Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) advised by [Dr. Bhiksha Raj](https://cmu-mlsp.github.io/team/bhiksha_raj).
 
 
 
