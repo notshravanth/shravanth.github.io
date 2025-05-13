@@ -5,7 +5,7 @@ venue: "Carnegie Mellon University"
 date: Aug 2024 - Dec 2025
 location: "Pittsburgh, PA"
 ---
-
+---
 Teaching Assistant for the course [11785/11685/11485: Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/) by [Dr. Bhiksha Raj](https://cmu-mlsp.github.io/team/bhiksha_raj).
 
 Introduction to Deep Learning
@@ -21,3 +21,5 @@ Introduction to Deep Learning
 • Holding hackathons and Bootcamps for handson coding for Dataloaders, MLPs, CNNs, LSTM, NNs with Attention etc.
 
 • Lecturing on Transformers, GANs and Diffusion Models.
+
+---
