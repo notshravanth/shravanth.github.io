@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate Course"
+venue: "Carnegie Mellon University"
+date: Aug 2024 - Dec 2024
+location: "Pittsburgh, PA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Teaching Assistant for the course [11775: Large-Scale Multimedia Analysis](https://11775website.github.io/) by [Dr. Rita Singh](https://www.cylab.cmu.edu/directory/bios/singh-rita.html).
