@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Research Fellow (PhD), in Language Technologies Institute, Carnegie Mellon University, 2023 - Present
-* M.S. in Computer and Information Science, University Of Pittsburgh, 2023 - 2025
-* B.S. in Mechanical Engineerning (Minor in Computer Science and Finance), Bangalore Institute of Technology, 2018 - 2022
+* Research Fellow (PhD), in Language Technologies Institute, Carnegie Mellon University, Present
+* M.S. in Computer and Information Science, University Of Pittsburgh, 2025
+* B.S. in Mechanical Engineerning (Minor in Computer Science and Finance), Bangalore Institute of Technology, 2022
 
 Work experience
 ======
@@ -45,17 +45,17 @@ Skills
 * Database & Cloud: SQL, Azure, GCP, AWS, DBT, Airflow, Analytics Workflow Tools
 * Data Science: Machine Learning, Statistical Analysis, Neural Networks, Deep Learning, LLMs, Agentic Mode
 
-Publications
+<>(Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>)
   
-Talks
+<>(Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>)
   
 Teaching
 ======
@@ -68,7 +68,8 @@ Mentoring
 * Gopalakrishnan Thirunellai Venkitachlam, MS Student, Carnegie Mellon University
 * Nayesha Gandotra, MS Student, Carnegie Mellon University
 
-Accoladates and Achievements
+Accolades and Achievements
 ======
 International Swimmer, FINA, SFI, SAI, KSA
 Olympic qualifier. Represented and won for my country in various events such as World School Games, World Championships, Asian Swimming Championships, Open Water World Cup. National Gold Medalist (300+ medals). Received the best sportsman award for batch 2022 for winning the college overall championship in NCAA.
+
