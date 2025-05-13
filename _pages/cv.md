@@ -45,17 +45,17 @@ Skills
 * Database & Cloud: SQL, Azure, GCP, AWS, DBT, Airflow, Analytics Workflow Tools
 * Data Science: Machine Learning, Statistical Analysis, Neural Networks, Deep Learning, LLMs, Agentic Mode
 
-<>(Publications
+Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>)
+  {% endfor %}</ul>
   
-<>(Talks
+Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>)
+  {% endfor %}</ul>
   
 Teaching
 ======
@@ -70,6 +70,7 @@ Mentoring
 
 Accolades and Achievements
 ======
-International Swimmer, FINA, SFI, SAI, KSA
-Olympic qualifier. Represented and won for my country in various events such as World School Games, World Championships, Asian Swimming Championships, Open Water World Cup. National Gold Medalist (300+ medals). Received the best sportsman award for batch 2022 for winning the college overall championship in NCAA.
+* International Swimmer, FINA, SFI, SAI, KSA
+ * Olympic qualifier. Represented and won for my country in various events such as World School Games, World Championships, Asian Swimming Championships, Open Water World Cup. National Gold Medalist (300+ medals). Received the best sportsman award for batch 2022 for winning the college overall championship in NCAA.
+* 
 
