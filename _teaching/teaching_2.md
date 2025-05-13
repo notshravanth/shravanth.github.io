@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant for 11775: Large-Scale Multimedia Analysis"
 type: "Graduate Course"
 venue: "Carnegie Mellon University"
 date: Aug 2024 - Dec 2024
