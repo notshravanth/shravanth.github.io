@@ -71,6 +71,6 @@ Mentoring
 Accolades and Achievements
 ======
 * International Swimmer, FINA, SFI, SAI, KSA
- * Olympic qualifier. Represented and won for my country in various events such as World School Games, World Championships, Asian Swimming Championships, Open Water World Cup. National Gold Medalist (300+ medals). Received the best sportsman award for batch 2022 for winning the college overall championship in NCAA.
-* 
+  * Olympic qualifier. Represented and won for my country in various events such as World School Games, World Championships, Asian Swimming Championships, Open Water World Cup. National Gold Medalist (300+ medals). Received the best sportsman award for batch 2022 for winning the college overall championship in NCAA.
+
 
