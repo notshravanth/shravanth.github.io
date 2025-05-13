@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 type: "Graduate/PhD Course"
 venue: "Carnegie Mellon University"
-date: Jan 2024 - Dec 2025
+date: Jan 2025 - Dec 2025
 location: "Pittsburgh, PA"
 ---
 
