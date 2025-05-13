@@ -1,6 +1,6 @@
 ---
-title: "Teaching Assistant"
-type: "Graduate/PhD Course"
+title: "Teaching Assistant for 11785/11685/11485: Introduction to Deep Learning"
+type: "PhD Course"
 venue: "Carnegie Mellon University"
 date: Jan 2025 - Dec 2025
 location: "Pittsburgh, PA"
