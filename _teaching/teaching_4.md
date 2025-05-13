@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant for 18CS652: Introduction to Data Structures and Algorithms"
 type: "Undergraduate Course"
 venue: "Bangalore Institute of Technology"
 date: Aug 2022 - May 2022
