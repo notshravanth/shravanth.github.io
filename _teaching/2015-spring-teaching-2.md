@@ -1,6 +1,5 @@
 ---
 title: "Teaching Assistant"
-collection: teaching
 type: "Graduate Course"
 venue: "Carnegie Mellon University"
 date: Aug 2024 - Dec 2024
