@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Research Fellow (PhD), in Language Technologies Institute, Carnegie Mellon University, Present
-* M.S. in Computer and Information Science, University Of Pittsburgh, 2025
+* M.S. in Computer and Information Science, University of Pittsburgh, 2025
 * B.S. in Mechanical Engineerning (Minor in Computer Science and Finance), Bangalore Institute of Technology, 2022
 
 Work experience
